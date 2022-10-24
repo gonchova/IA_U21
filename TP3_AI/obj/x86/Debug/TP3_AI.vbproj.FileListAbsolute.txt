@@ -1,0 +1,27 @@
+C:\Users\CHOVA\documents\visual studio 2010\Projects\TP3_AI\TP3_AI\bin\Debug\TP3_AI.exe
+C:\Users\CHOVA\documents\visual studio 2010\Projects\TP3_AI\TP3_AI\bin\Debug\TP3_AI.pdb
+C:\Users\CHOVA\documents\visual studio 2010\Projects\TP3_AI\TP3_AI\bin\Debug\TP3_AI.xml
+C:\Users\CHOVA\documents\visual studio 2010\Projects\TP3_AI\TP3_AI\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\CHOVA\documents\visual studio 2010\Projects\TP3_AI\TP3_AI\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\CHOVA\documents\visual studio 2010\Projects\TP3_AI\TP3_AI\obj\x86\Debug\TP3_AI.vbproj.GenerateResource.Cache
+C:\Users\CHOVA\documents\visual studio 2010\Projects\TP3_AI\TP3_AI\obj\x86\Debug\TP3_AI.exe
+C:\Users\CHOVA\documents\visual studio 2010\Projects\TP3_AI\TP3_AI\obj\x86\Debug\TP3_AI.xml
+C:\Users\CHOVA\documents\visual studio 2010\Projects\TP3_AI\TP3_AI\obj\x86\Debug\TP3_AI.pdb
+C:\Users\CHOVA\Desktop\TP3_AI\TP3_AI\obj\x86\Debug\TP3_AI.exe
+C:\Users\CHOVA\Desktop\TP3_AI\TP3_AI\obj\x86\Debug\TP3_AI.xml
+C:\Users\CHOVA\Desktop\TP3_AI\TP3_AI\obj\x86\Debug\TP3_AI.pdb
+C:\Users\CHOVA\Desktop\TP3_AI\TP3_AI\bin\Debug\TP3_AI.exe
+C:\Users\CHOVA\Desktop\TP3_AI\TP3_AI\bin\Debug\TP3_AI.pdb
+C:\Users\CHOVA\Desktop\TP3_AI\TP3_AI\bin\Debug\TP3_AI.xml
+C:\Users\CHOVA\Desktop\TP3_AI\TP3_AI\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\CHOVA\Desktop\TP3_AI\TP3_AI\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\CHOVA\Desktop\TP3_AI\TP3_AI\obj\x86\Debug\TP3_AI.vbproj.GenerateResource.cache
+C:\Users\CHOVA\Desktop\UNIVERSIDAD 21\2022-2SEM-A\INTELIGENCIA ARTIFICIAL\PARTE2\tp3\TP3_AI\TP3_AI\obj\x86\Debug\TP3_AI.exe
+C:\Users\CHOVA\Desktop\UNIVERSIDAD 21\2022-2SEM-A\INTELIGENCIA ARTIFICIAL\PARTE2\tp3\TP3_AI\TP3_AI\obj\x86\Debug\TP3_AI.xml
+C:\Users\CHOVA\Desktop\UNIVERSIDAD 21\2022-2SEM-A\INTELIGENCIA ARTIFICIAL\PARTE2\tp3\TP3_AI\TP3_AI\obj\x86\Debug\TP3_AI.pdb
+C:\Users\CHOVA\Desktop\UNIVERSIDAD 21\2022-2SEM-A\INTELIGENCIA ARTIFICIAL\PARTE2\tp3\TP3_AI\TP3_AI\bin\Debug\TP3_AI.exe
+C:\Users\CHOVA\Desktop\UNIVERSIDAD 21\2022-2SEM-A\INTELIGENCIA ARTIFICIAL\PARTE2\tp3\TP3_AI\TP3_AI\bin\Debug\TP3_AI.pdb
+C:\Users\CHOVA\Desktop\UNIVERSIDAD 21\2022-2SEM-A\INTELIGENCIA ARTIFICIAL\PARTE2\tp3\TP3_AI\TP3_AI\bin\Debug\TP3_AI.xml
+C:\Users\CHOVA\Desktop\UNIVERSIDAD 21\2022-2SEM-A\INTELIGENCIA ARTIFICIAL\PARTE2\tp3\TP3_AI\TP3_AI\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\CHOVA\Desktop\UNIVERSIDAD 21\2022-2SEM-A\INTELIGENCIA ARTIFICIAL\PARTE2\tp3\TP3_AI\TP3_AI\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\CHOVA\Desktop\UNIVERSIDAD 21\2022-2SEM-A\INTELIGENCIA ARTIFICIAL\PARTE2\tp3\TP3_AI\TP3_AI\obj\x86\Debug\TP3_AI.vbproj.GenerateResource.Cache
